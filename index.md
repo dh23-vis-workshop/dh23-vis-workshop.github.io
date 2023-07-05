@@ -2,13 +2,25 @@
 
 This [DH'23](https://dh2023.adho.org/) workshop will explore and discuss strategies for teaching visualization literacy - from sketching by hand to creating visualizations using computational tools. Led by instructors from the humanities, visual analytics, design, and computer science, sessions will cover different methodologies and challenges of teaching visualization to audiences with varied technical and disciplinary expertise and goals.
 
+This hands-on workshop will walk participants through visualization exercises, reflecting on how tools (both analog and digital) can enhance but also constrain our thinking.
+
+[workshop proposal](https://dh23-vis-workshop.github.io/VIS4DH_Workshop_Poporal_DH2023.pdf)
+
 ## Workshop topics & outline
+
+### Introduction
 * Workshop Introduction & Goals
 * Visualizing 2 Quantities [exercise]
 * Data Visualization in a Nutshell
+
+### Hands-on Approaches to Creating Visualizations
 * Sketching Data Visualizations [exercise]
 * Creating Digital Data Visualization [exercise]
-* Discussion & closing
+
+### Discussion of Teaching and Applying Visualization Approaches in DH
+* Strategies for ideation, creation, and critical interpretation
+* Designing assignments and syllabi
+* Open discussion of participants’ past instruction experiences and approaches
 
 ## Resources & Links
 * Data Visualization Theory
