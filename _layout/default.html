@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>This is an online course on data visualization for upskilling professionals in all sectors running  16. May &ndash; 10. July 2022</p>
+       
+        <br/>
+      
+        <h3>Navigation</h3>
+        <a href="/.">Overview</a>
+        <br/>
+        <a href="/organisation.html">Course Description</a>
+        <br/>
+        <a href="/teaching_philosophy.html">Teaching Approach</a>
+        <br/>
+        <a href="/content.html">Topics &amp; Schedule</a>
+        <br/><br/> 
+        <a href="/entry.html">Requirements, Fees and Waivers</a>
+        <br/>
+        <a href="/how_to_apply.html">How to apply</a>
+        <br/> 
+        <a href="/faqs.html">FAQs</a>
+        <br/> 
+        <b><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUQUJETVM0UTFITEVQVzZNTUVFTVhEOU1QTS4u&wdLOR=c675E99C0-A068-A34E-A6DE-B7F0B62FBEF5">Apply</a></b>
+        <br/><br/> 
+        <a href="/team.html">Team</a>
+        <br/>
+        <a href="mailto:icarson3@ed.ac.uk">E-mail us</a>     
+        <br/>        
+        <br/>
+        <a href="http://visualinteractivedata.github.io/"><img src="https://vishub.net/figures/logo-feb2022.png" width="120px"/></a>
+   </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
