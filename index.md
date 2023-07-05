@@ -1,1 +1,3 @@
 # From Sketching to Coding: Visualization as a Thinking Process
+
+This [DH'23] (https://dh2023.adho.org/) workshop will explore and discuss strategies for teaching visualization literacy - from sketching by hand to creating visualizations using computational tools. Led by instructors from the humanities, visual analytics, design, and computer science, sessions will cover different methodologies and challenges of teaching visualization to audiences with varied technical and disciplinary expertise and goals.
