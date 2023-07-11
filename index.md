@@ -42,6 +42,7 @@ We will walk participants through visualization exercises, reflecting on how too
 
 *Sketching
 - Steven Heller & Rick Landers. Raw Data. [Infographic Designers' Sketchbooks](https://thamesandhudson.com/raw-data-infographic-designers-sketchbooks-9780500517451). Thames and Hudson Ltd
+- [5 Design Sheet Method](http://fds.design/)
 
 *Color*
 - [Color Brewer](https://colorbrewer2.org)
