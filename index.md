@@ -23,6 +23,8 @@ We will walk participants through visualization exercises, reflecting on how too
 
 ## Resources & Links
 *Data Visualization Theory*
+- Tamara Munzner, [Visualization Analysis & Design](https://www.cs.ubc.ca/~tmm/vadbook/), AK Peters, 2015
+- Isabelle Mireilles, [Design for Information](https://isabelmeirelles.com/book-design-for-information/), Rockport, 2013
 
 *Techniques, Visualization Types & General Resources*
 - [DataViz_Project](https://datavizproject.com/)
@@ -38,8 +40,10 @@ We will walk participants through visualization exercises, reflecting on how too
 - [http://timelinecurator.org/](Timeline Curator)
 - [https://github.com/YaleDHLab/pix-plot](PixPlot)
 
+*Sketching
+- Steven Heller & Rick Landers. Raw Data. [Infographic Designers' Sketchbooks](https://thamesandhudson.com/raw-data-infographic-designers-sketchbooks-9780500517451). Thames and Hudson Ltd
 
-* Color
+*Color*
 - [Color Brewer](https://colorbrewer2.org)
 - [Viz Palette](https://projects.susielu.com/viz-palette)
 - [I want hue](https://medialab.github.io/iwanthue/)
