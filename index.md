@@ -22,13 +22,21 @@ We will walk participants through visualization exercises, reflecting on how too
 * Open discussion of participants’ past instruction experiences and approaches
 
 ## Resources & Links
-* Data Visualization Theory
+*Data Visualization Theory*
 
-* Techniques, Visualization Types & General Resources 
+*Techniques, Visualization Types & General Resources*
 - [DataViz_Project](https://datavizproject.com/)
 - [ChartMaker Directory @ Visualising Data](http://chartmaker.visualisingdata.com/)
 
-* Visualization Tools
+*Visualization Tools*
 - [VisTools](https://vistools.net/)
+
+*DH Specific Tools*
+- [https://vistorian.net/](The Vistorian)
+- [https://hdlab.stanford.edu/palladio/](Palladio)
+- [https://github.com/cpietsch/vikus-viewer](VIKUS Viewer)
+- [http://timelinecurator.org/](Timeline Curator)
+- [https://github.com/YaleDHLab/pix-plot](PixPlot)
+
 
 
