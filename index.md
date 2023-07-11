@@ -31,4 +31,13 @@ We will walk participants through visualization exercises, reflecting on how too
 * Visualization Tools
 - [VisTools](https://vistools.net/)
 
+* Color
+- [Color Brewer](https://colorbrewer2.org)
+- [Viz Palette](https://projects.susielu.com/viz-palette)
+- [I want hue](https://medialab.github.io/iwanthue/)
+- [2D Colormaps](https://dominikjaeckle.com/projects/color2d/)
+- [ColorCat](https://github.com/SebastianMittelstaedt/ColorCAT)
+- [Coloring for Color Blindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
+- [Colorgorical](http://vrl.cs.brown.edu/color)
+
 
