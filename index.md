@@ -31,6 +31,7 @@ We will walk participants through visualization exercises, reflecting on how too
 *Data Visualization Theory*
 - Tamara Munzner, [Visualization Analysis & Design](https://www.cs.ubc.ca/~tmm/vadbook/), AK Peters, 2015
 - Isabelle Mireilles, [Design for Information](https://isabelmeirelles.com/book-design-for-information/), Rockport, 2013
+- Jaques Bertin, [Semiology of Graphics](https://www.esri.com/en-us/esri-press/browse/semiology-of-graphics-diagrams-networks-maps), Esri Press, 2010 (original version 1967)
 
 *Design Process and Theory*
 - Hinrichs, U., Forlini, S., & Moynihan, B. (2019). [In defense of sandcastles: Research thinking through visualization in digital humanities](https://academic.oup.com/dsh/article-abstract/34/Supplement_1/i80/5146726). Digital Scholarship in the Humanities, 34(Supplement_1), i80-i99.
