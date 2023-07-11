@@ -24,5 +24,6 @@ We will walk participants through visualization exercises, reflecting on how too
 ## Resources & Links
 * Data Visualization Theory
 
-* Data Visualization Tools
+* Techniques, Visualization Types & General Resources 
+
 
