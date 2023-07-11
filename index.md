@@ -6,7 +6,7 @@ We will walk participants through visualization exercises, reflecting on how too
 ## Workshop Materials
 - [Full workshop proposal (PDF)](https://dh23-vis-workshop.github.io/VIS4DH_Workshop_Poporal_DH2023.pdf)
 - [Observable Tutorial] (https://observablehq.com/@ealexander/from-sketching-to-coding)
-- [RawGraphs Tutorial (PDF)]()
+- [RawGraphs Tutorial (PDF)](https://dh23-vis-workshop.github.io/DH23_workshop_RawGraphs.pdf)
 
 ## Workshop topics & outline
 
