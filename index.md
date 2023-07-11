@@ -31,6 +31,7 @@ We will walk participants through visualization exercises, reflecting on how too
 *Visualization Tools*
 - [VisTools](https://vistools.net/)
 
+<<<<<<< HEAD
 *DH Specific Tools*
 - [https://vistorian.net/](The Vistorian)
 - [https://hdlab.stanford.edu/palladio/](Palladio)
@@ -38,5 +39,15 @@ We will walk participants through visualization exercises, reflecting on how too
 - [http://timelinecurator.org/](Timeline Curator)
 - [https://github.com/YaleDHLab/pix-plot](PixPlot)
 
+=======
+* Color
+- [Color Brewer](https://colorbrewer2.org)
+- [Viz Palette](https://projects.susielu.com/viz-palette)
+- [I want hue](https://medialab.github.io/iwanthue/)
+- [2D Colormaps](https://dominikjaeckle.com/projects/color2d/)
+- [ColorCat](https://github.com/SebastianMittelstaedt/ColorCAT)
+- [Coloring for Color Blindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
+- [Colorgorical](http://vrl.cs.brown.edu/color)
+>>>>>>> 7d88d2f763d7a3b09d6ebebf986c780d4db122db
 
 
