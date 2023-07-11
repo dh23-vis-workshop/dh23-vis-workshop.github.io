@@ -25,5 +25,10 @@ We will walk participants through visualization exercises, reflecting on how too
 * Data Visualization Theory
 
 * Techniques, Visualization Types & General Resources 
+- [DataViz_Project](https://datavizproject.com/)
+- [ChartMaker Directory @ Visualising Data](http://chartmaker.visualisingdata.com/)
+
+* Visualization Tools
+- [VisTools](https://vistools.net/)
 
 
