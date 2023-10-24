@@ -30,7 +30,7 @@ We will walk participants through visualization exercises, reflecting on how too
 ## Resources & Links
 *Data Visualization Theory*
 - Tamara Munzner, [Visualization Analysis & Design](https://www.cs.ubc.ca/~tmm/vadbook/), AK Peters, 2015
-- Isabelle Mireilles, [Design for Information](https://isabelmeirelles.com/book-design-for-information/), Rockport, 2013
+- Isabel Meirelles, [Design for Information](https://isabelmeirelles.com/book-design-for-information/), Rockport, 2013
 - Jaques Bertin, [Semiology of Graphics](https://www.esri.com/en-us/esri-press/browse/semiology-of-graphics-diagrams-networks-maps), Esri Press, 2010 (original version 1967)
 
 *Design Process and Theory*
@@ -50,7 +50,7 @@ We will walk participants through visualization exercises, reflecting on how too
 
 *Teaching*
 - [Word Embedding Models: A Very Short Introduction](https://aelang.github.io/word-embeddings) (an introduction to representing words’ meanings as vectors for a DH audience)
-- Python for data analysis and visualization: [GLAM Workbench](https://glam-workbench.net/); [NLS Jupyter Notebooks](https://data.nls.uk/tools/jupyter-notebooks/)
+- Python for data analysis and visualization: [GLAM Workbench](https://glam-workbench.net/); [NLS Jupyter Notebooks](https://data.nls.uk/tools/jupyter-notebooks/); [DataVis tutorials by Marian Dörk](https://infovis.fh-potsdam.de/tutorials/)
 
 
 *Visualization Tools (unsorted)*
